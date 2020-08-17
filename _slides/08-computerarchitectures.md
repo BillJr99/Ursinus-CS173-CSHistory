@@ -4,8 +4,7 @@ transition: zoom
 
 ## Modern Computer Architectures
 
-- John **Von Neumann Architecture**(1946)
-  - Reduced Instruction Set Computer (RISC): short, consistent clock cycles
+- John **Von Neumann Architecture** (1946)
   - Arithmetic, Conditionals, Branches, Loops
   - Single bus for unified instruction and data memory, using registers to bridge the gap
 
