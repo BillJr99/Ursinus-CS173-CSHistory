@@ -7,10 +7,8 @@ transition: zoom
 - John Von Neumann (1946): **Von Neumann Architecture**
   - Reduced Instruction Set Computer (RISC)
     - Shorter, more consistent clock cycles
-  - Arithmetic, Conditionals, Branches
-  - Loops could be made by combining conditionals and branches
-  - Computer Registers
-  - Single bus for instruction and data memory (unified memory)
+  - Arithmetic, Conditionals, Branches, Loops
+  - Single bus for unified instruction and data memory, using registers to bridge the gap
 
 <div class="paragraph">
     <p>

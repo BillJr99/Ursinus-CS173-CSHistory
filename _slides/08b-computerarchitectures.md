@@ -5,9 +5,8 @@ transition: zoom
 ## Modern Computer Architectures
 
 - Harvard Architecture
-  - Similar to the above, but instruction and data memory are separated for simultaneous access  
-- Complex instructions are composed of RISC instructions
-  - Complex instruction sets (CISC) encode more meaning into each larger instruction  
+  - Instruction and data memory are separated for simultaneous access  
+- CISC instructions encode more meaning into each larger instruction  
 
 <div class="paragraph">
     <p>
