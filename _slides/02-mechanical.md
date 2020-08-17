@@ -15,9 +15,9 @@ transition: zoom
     </p>
 </div>
 
-- The abacus (base-60 calculator), c. 2700 BCE \[[^1]\]
+- The abacus (base-60 calculator), c. 2700 BCE \[1\]
   - Arithmetic operations
-- Antikythera Mechanism (astronomy), c. 100 BCE \[[^2]\]
+- Antikythera Mechanism (astronomy), c. 100 BCE \[2\]
   - Gearing represented periodic functions for celestial bodies
   
 [^1]: [https://en.wikipedia.org/wiki/History_of_computer_science](https://en.wikipedia.org/wiki/History_of_computer_science)

@@ -12,7 +12,7 @@ transition: zoom
     </p>
 </div>
 
-- Godfried Leibniz (1689) proposed a binary number system, derived from the *I Ching* (based on yin and yang) \[[^1]\]
+- Godfried Leibniz (1689) proposed a binary number system, derived from the *I Ching* (based on yin and yang) \[1\]
 - George Boole (1847): **The Mathematical Analysis of Logic** - used a binary system to propose Boolean Algebra (AND, OR, NOT)
   - *Tent*: *Warm* **AND** **NOT** *Raining* 
 
