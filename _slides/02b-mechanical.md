@@ -12,7 +12,5 @@ transition: zoom
     </p>
 </div>
 
-- Antikythera Mechanism (astronomy), c. 100 BCE \[1\]
+- Antikythera Mechanism (astronomy), c. 100 BCE \[2\]
   - Gearing represented periodic functions for celestial bodies
-
-[^1]: [https://en.wikipedia.org/wiki/Antikythera_mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)

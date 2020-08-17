@@ -15,4 +15,4 @@ transition: zoom
 - The abacus (base-60 calculator), c. 2700 BCE \[1\]
   - Arithmetic operations
   
-[^1]: [https://en.wikipedia.org/wiki/History_of_computer_science](https://en.wikipedia.org/wiki/History_of_computer_science)
+
