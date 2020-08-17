@@ -2,7 +2,7 @@
 transition: zoom
 ---
 
-## The Theoretical Computer: The Analytical Engine
+## The Analytical Engine
 
 - Charles Babbage (1837) proposed the **Analytical Engine** - a design for a modern computer using punch cards \[[^1]\]
 
