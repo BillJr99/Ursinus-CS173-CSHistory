@@ -4,7 +4,7 @@ transition: zoom
 
 ## Number Systems
 
-- Babylonian number system showing fractional portions of base 60 units to represent an approximation of the square root of 2 (24, 51, and 10 are are the numreators of each fractional place value added to the whole unit number value 1)
+- Babylonian number system showing fractional portions of base 60 units to represent an approximation of the square root of 2 (24, 51, and 10 are are the numerators of each fractional place value added to the unit value 1)
 
 <div class="paragraph">
     <p>

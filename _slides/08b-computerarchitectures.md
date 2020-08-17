@@ -11,7 +11,7 @@ transition: zoom
 <div class="paragraph">
     <p>
         <span class="image">
-            <a title="Nessa los / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Harvard_architecture.svg"><img width="512" alt="Harvard architecture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Harvard_architecture.svg/512px-Harvard_architecture.svg.png"></a>
+            <a title="Nessa los / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)" href="https://commons.wikimedia.org/wiki/File:Harvard_architecture.svg"><img width="256" alt="Harvard architecture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Harvard_architecture.svg/512px-Harvard_architecture.svg.png"></a>
         </span>
     </p>
 </div>
